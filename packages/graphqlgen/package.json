@@ -53,7 +53,7 @@
     "reason": "3.3.4",
     "rimraf": "2.6.3",
     "typescript": "3.3.3",
-    "yargs": "12.0.5"
+    "yargs": "13.2.1"
   },
   "devDependencies": {
     "@types/benchmark": "1.0.31",
