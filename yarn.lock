@@ -64,9 +64,9 @@
     "@types/minimatch" "*"
     "@types/node" "*"
 
-"@types/graphql@14.0.5":
-  version "14.0.5"
-  resolved "https://registry.yarnpkg.com/@types/graphql/-/graphql-14.0.5.tgz#e696292fd2d77dc168b5b791710f83463aa39abd"
+"@types/graphql@14.0.7":
+  version "14.0.7"
+  resolved "https://registry.yarnpkg.com/@types/graphql/-/graphql-14.0.7.tgz#daa09397220a68ce1cbb3f76a315ff3cd92312f6"
 
 "@types/inquirer@0.0.43":
   version "0.0.43"
@@ -79,9 +79,9 @@
   version "20.0.1"
   resolved "https://registry.yarnpkg.com/@types/jest-diff/-/jest-diff-20.0.1.tgz#35cc15b9c4f30a18ef21852e255fdb02f6d59b89"
 
-"@types/jest@24.0.5":
-  version "24.0.5"
-  resolved "https://registry.yarnpkg.com/@types/jest/-/jest-24.0.5.tgz#a4f9e255f460ce24896cfec89aacf1151a2131ee"
+"@types/jest@24.0.6":
+  version "24.0.6"
+  resolved "https://registry.yarnpkg.com/@types/jest/-/jest-24.0.6.tgz#ba4c8c7900ce098a82ca99293cbe4192bde4f355"
   dependencies:
     "@types/jest-diff" "*"
 
@@ -119,9 +119,9 @@
   version "10.12.21"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-10.12.21.tgz#7e8a0c34cf29f4e17a36e9bd0ea72d45ba03908e"
 
-"@types/node@10.12.25":
-  version "10.12.25"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-10.12.25.tgz#0d01a7dd6127de60d861ece4a650963042abb538"
+"@types/node@10.12.26":
+  version "10.12.26"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-10.12.26.tgz#2dec19f1f7981c95cb54bab8f618ecb5dc983d0e"
 
 "@types/ora@3.0.0":
   version "3.0.0"
@@ -135,9 +135,9 @@
   dependencies:
     "@types/node" "*"
 
-"@types/prettier@1.15.2":
-  version "1.15.2"
-  resolved "https://registry.yarnpkg.com/@types/prettier/-/prettier-1.15.2.tgz#91594ea7cb6f3b1f7ea69f32621246654c7cc231"
+"@types/prettier@1.16.1":
+  version "1.16.1"
+  resolved "https://registry.yarnpkg.com/@types/prettier/-/prettier-1.16.1.tgz#328d1c9b54402e44119398bcb6a31b7bbd606d59"
 
 "@types/request@2.48.1":
   version "2.48.1"
@@ -255,9 +255,9 @@
   dependencies:
     "@types/node" "*"
 
-"@types/tmp@0.0.33":
-  version "0.0.33"
-  resolved "https://registry.yarnpkg.com/@types/tmp/-/tmp-0.0.33.tgz#1073c4bc824754ae3d10cfab88ab0237ba964e4d"
+"@types/tmp@0.0.34":
+  version "0.0.34"
+  resolved "https://registry.yarnpkg.com/@types/tmp/-/tmp-0.0.34.tgz#4d01c0afce0ac9be316c5fc52b6407c6fc8cd440"
 
 "@types/tough-cookie@*":
   version "2.3.5"
@@ -267,9 +267,9 @@
   version "2.5.0"
   resolved "https://registry.yarnpkg.com/@types/update-notifier/-/update-notifier-2.5.0.tgz#63cfcee92cc915f9a6eea4d1442ec6efd012e118"
 
-"@types/yargs@12.0.8":
-  version "12.0.8"
-  resolved "https://registry.yarnpkg.com/@types/yargs/-/yargs-12.0.8.tgz#0b45bf0607a5509b921335658d87489c12955176"
+"@types/yargs@12.0.9":
+  version "12.0.9"
+  resolved "https://registry.yarnpkg.com/@types/yargs/-/yargs-12.0.9.tgz#693e76a52f61a2f1e7fb48c0eef167b95ea4ffd0"
 
 abab@^2.0.0:
   version "2.0.0"
@@ -298,9 +298,9 @@ acorn@^6.0.1:
   version "6.0.7"
   resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.0.7.tgz#490180ce18337270232d9488a44be83d9afb7fd3"
 
-ajv@6.9.0:
-  version "6.9.0"
-  resolved "https://registry.yarnpkg.com/ajv/-/ajv-6.9.0.tgz#06458dbfb789366d703e308f180e0db195b7f2fa"
+ajv@6.9.1:
+  version "6.9.1"
+  resolved "https://registry.yarnpkg.com/ajv/-/ajv-6.9.1.tgz#a4d3683d74abc5670e75f0b16520f70a20ea8dc1"
   dependencies:
     fast-deep-equal "^2.0.1"
     fast-json-stable-stringify "^2.0.0"
@@ -1404,9 +1404,9 @@ find-up@^3.0.0:
   dependencies:
     locate-path "^3.0.0"
 
-flow-bin@0.86.0:
-  version "0.86.0"
-  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.86.0.tgz#153a28722b4dc13b7200c74b644dd4d9f4969a11"
+flow-bin@0.93.0:
+  version "0.93.0"
+  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.93.0.tgz#9192a08d88db2a8da0ff55e42420f44539791430"
 
 for-in@^1.0.1, for-in@^1.0.2:
   version "1.0.2"
